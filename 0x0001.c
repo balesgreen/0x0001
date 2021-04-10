@@ -1,3 +1,18 @@
+/*
+Projeto criado por Mark662 - data 10/04/2021.
+Este projeto está totalmente liberado para iniciantes em pentest, para
+aqueles que não se adaptaram em nenhum ambiente linux, a minha ferramenta
+irá dar um boost na vida de vocês com ferramentas já pré-adicionadas em
+meu código.
+
+é permitido modificação do código para melhorias e adição de novas ferramentas.
+Caso for postar ou divulgar minha ferramenta em algum lugar, por favor, deixe
+os cŕeditos.
+
+Abraços e bom uso!
+
+*/
+
 #include <stdio.h>
 #include <string.h>
 #include <stdlib.h>
